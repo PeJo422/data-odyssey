@@ -817,7 +817,7 @@ sv: &DEFAULT_SV
   less_than                  : "mindre än"
   minute_read                : "minut läsning"
   share_on_label             : "Dela på"
-  meta_label                 :
+  meta_label                 : "Meta tagg"
   tags_label                 : "Taggar:"
   categories_label           : "Kategorier:"
   date_label                 : "Uppdaterades:"
